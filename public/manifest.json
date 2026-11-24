@@ -1,0 +1,28 @@
+{
+  "name": "PitStop — Motorcycle Route & Corridor POI Navigator",
+  "short_name": "PitStop",
+  "description": "Mobile-first, offline-resilient route and corridor pit stop navigator for motorcyclists and long-distance riders.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0F17",
+  "theme_color": "#0B0F17",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
